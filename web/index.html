@@ -3,6 +3,7 @@
 
 <head>
   <!--
+    flutter build web --release --web-renderer html --base-href /your_repository_name/
     If you are serving your web app in a path other than the root, change the
     href value below to reflect the base path you are serving from.
 
@@ -12,11 +13,11 @@
     Fore more details:
     * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
   -->
-  <base href="/">
+  <base href="$FLUTTER_BASE_HREF">
   
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="A Selft taught flutter developer, technical writer and open source contributor.">
+  <meta name="description" content="A Selft taught flutter developer">
 
   <!-- iOS meta tags & icons -->
   <meta name="apple-mobile-web-app-capable" content="yes">
