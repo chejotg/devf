@@ -2,9 +2,8 @@
     "name": "Sergio Santisteban",
     "email": "sergiosesv@hotmail.com",
     "subtitles": [
-        "Flutter Developer",
-        "Technical Writer",
-        "UI/UX Designer"
+        "Flutter Developer"
+        
     ],
     "blackWhitePhotoURL": "",
         "coloredPhotoURL": "https://drive.google.com/uc?export=view&id=1tbFubRaM6Zcw59TDPj7QlFv2vB0m6TMg",
@@ -35,11 +34,7 @@
             "name": "Mobile App Development",
             "description": "Android app development via Flutter\n- Splash Screen\n- Firebase Auth/Cloud\n- REST APIs\n- Maps integration and more...!"
         },
-        {
-            "icon": "assets/services/ui.png",
-            "name": "UI/UX Designing",
-            "description": "Modern UI/UX Designing\n- Adobe XD\n- Mobile & Web designs\n- Interactive UI designs\n- Responsiveness\n- Promo Videos and more..!"
-        },
+        
         {
             "icon": "assets/services/rapid.png",
             "name": "Rapid Prototyping",
